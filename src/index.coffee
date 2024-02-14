@@ -118,7 +118,7 @@ pre em:not(.comment) { font-style: normal; }
   font-style: normal;
   color: rgba(255,255,255,0.8);
   font-weight: 100;
-  font-size: 30px;
+  font-size: 28px;
   text-shadow: -1px -1px 0px rgba(0,0,0,0.2);
 }
 
