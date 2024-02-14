@@ -55,7 +55,7 @@
     }), 2 * commentTime);
   };
 
-  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div>\n    <>\n  </div>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过</a>\n    <a style='color: #fff' href='http://www.parak.top/x'>重来</a>\n  </div>");
+  $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n    <a id='skipAnimation'>跳过</a>\n    <a style='color: #fff' href='http://www.parak.top/sunflower'>重来</a>\n  </div>");
 
   commentTime = 60;
 
